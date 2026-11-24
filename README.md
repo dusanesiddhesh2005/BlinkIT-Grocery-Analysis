@@ -23,9 +23,14 @@ This project focuses on analyzing grocery sales data from BlinkIT using Microsof
 ## Dashboard
 The interactive Power BI dashboard is available in the `.pbix` file uploaded in this repository.
 
+
 ## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
 - Data Visualization
 - Dashboard Development
 - Business Data Analysis
+
+## Dashboard Preview
+
+![BlinkIT Dashboard](BlinkIT-Dashboard.png)
